@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "sach1r0",
+  "address": "0x0e815C6156E2BE737bd8e81D145D816A517CEBa1",
+  "risk": "2",
+  "title": " `unstakeFor` function doesn't have a reentrancy guard",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/41"
+}
