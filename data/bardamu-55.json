@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "bardamu",
+  "address": "0xE2529459fB873dAeeD4714e76b8601807EF68dFF",
+  "risk": "2",
+  "title": "Lack of access control in burnFees function allows front-running / sandwiching and could result in loss of funds",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/55"
+}
