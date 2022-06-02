@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "bardamu",
+  "address": "0xE2529459fB873dAeeD4714e76b8601807EF68dFF",
+  "risk": "2",
+  "title": "Missing access control in non-batched InflationManager execute funtions",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/56"
+}
