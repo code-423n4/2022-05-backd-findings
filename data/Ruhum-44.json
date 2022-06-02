@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "FeeBurner initiates swap without any slippage checks if Chainlink oracle fails ",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/44"
+}
