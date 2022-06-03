@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "lockFor() in BkdLocker don't check that user is not 0x0 and if user by mistake call this function with value 0x0 s/he is going to lose his funds.",
+  "issueId": 166,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/166"
+}
