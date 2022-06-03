@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "hake",
+  "address": "0x14Ca9669A2D8E353560b85474575c5FfDe245220",
+  "risk": "2",
+  "title": "`RewardHandler.sol`and `FeeBurner.sol` will fail due to inexistent `AddressProvider.sol` getter functions",
+  "issueId": 120,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/120"
+}
