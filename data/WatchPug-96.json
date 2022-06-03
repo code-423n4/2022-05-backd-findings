@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "Attacker can steal funds from the contract with re-entrancy from hookable tokens",
+  "issueId": 96,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/96"
+}
