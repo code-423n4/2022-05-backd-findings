@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "Function unstakeFor() and  stakeFor() in AmmGauge is vulnerable to reentrancy attacfk",
+  "issueId": 179,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/179"
+}
