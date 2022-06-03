@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "SecureZeroX",
+  "address": "0x5847c3294DB1c9D66f5008156829CE0911f0eD58",
+  "risk": "2",
+  "title": "`kill()` function increase `epoch` every time when it calls even already killed",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/73"
+}
