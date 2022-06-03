@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "hansfriese",
+  "address": "0xf2dCB1d3B7091Dcf2cE87aD115377C108ebE6DD4",
+  "risk": "2",
+  "title": "RewardHandler.burnFees() will work only once and revert after that if burnedAmount is different.",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/88"
+}
