@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`BkdLocker#depositFees()` can be front run to steal the newly added rewardToken",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/95"
+}
