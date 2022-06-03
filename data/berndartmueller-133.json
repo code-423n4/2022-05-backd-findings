@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "berndartmueller",
+  "address": "0x6A897b32996D342535791a74B8a40E75DDf2486e",
+  "risk": "2",
+  "title": "Fee-on transfer tokens in `FeeBurner.burnToTarget` will revert transaction",
+  "issueId": 133,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/133"
+}
