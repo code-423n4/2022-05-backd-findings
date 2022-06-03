@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833D7Dee997d7D347e2634C9CEF",
+  "risk": "2",
+  "title": "Minus before addition -> underflow risk (But reverted due to solidity 0.8)",
+  "issueId": 172,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/172"
+}
