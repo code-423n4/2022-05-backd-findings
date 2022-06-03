@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "cryptphi",
+  "address": "0x876133657F5356e376B7ae27d251444727cE9488",
+  "risk": "2",
+  "title": "Lack of safeApprove(0) may prevent deposits and swapping of token",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/97"
+}
