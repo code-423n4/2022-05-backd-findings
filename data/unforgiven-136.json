@@ -1,0 +1,9 @@
+{
+  "contest": 131,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "it's possible to initialize contract BkdLocker for multiple times by sending startBoost=0 and each time different values for other parameters",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2022-05-backd-findings/issues/136"
+}
