@@ -1,3 +1,11 @@
+---
+sponsor: "Backd"
+slug: "2022-05-backd"
+date: "2022-07-19"
+title: "Backd Tokenomics contest"
+findings: "https://github.com/code-423n4/2022-05-backd-findings/issues"
+contest: 131
+---
 
 # Overview
 
